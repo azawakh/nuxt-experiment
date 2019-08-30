@@ -37,7 +37,7 @@ export default {
   },
   data(): Foo {
     return {
-      foo: 'bar' // 1
+      foo: 2 // 'bar'
     }
   }
 }
